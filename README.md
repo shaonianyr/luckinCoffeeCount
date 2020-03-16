@@ -22,4 +22,4 @@
 * wxPython
 
 ## 实现效果
-<img src="https://github.com/ShaoNianyr/luckinCoffeeCount/blob/master/count.png">
+<img src="https://testerhome.com/uploads/photo/2020/6453997b-9794-467b-aaad-a696556737ba.png!large">
